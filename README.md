@@ -3,16 +3,16 @@ Some methods for generating harness/driver of library automatically.
 
 ## Paper
 
-1. A Case Study on Automated Fuzz Target Generation for Large Codebases.[arXiv 2019]
-2. APICRAFT: Fuzz Driver Generation for Closed-source SDK Libraries.[Usenix 2021]
-3. DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing.[AAAI 2019]
-4. FUDGE: fuzz driver generation at scale.[ESEC/FSE 2019]
-5. FuzzBuilder: automated building greybox fuzzing environment for C/C++ library.[ACSAC 2019]
-6. FuzzGen: Automatic Fuzzer Generation.[Usenix 2020]
-7. IntelliGen: Automatic Driver Synthesis for Fuzz Testing.[ICSE-SEIP 2021]
-8. RULF: Rust Library Fuzzing via API Dependency Graph Traversal.[ASE 2021]
-9. SyRust: automatic testing of Rust libraries with semantic-aware program synthesis.[PLDI 2021]
-10. WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning.[NDSS 2021]
+1. A Case Study on Automated Fuzz Target Generation for Large Codebases.[ESEM 2019](https://ieeexplore.ieee.org/document/8870150)
+2. APICRAFT: Fuzz Driver Generation for Closed-source SDK Libraries.[Usenix 2021](https://www.usenix.org/system/files/sec21-zhang-cen.pdf)
+3. DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing.[AAAI 2019](https://faculty.ist.psu.edu/wu/papers/DeepFuzz.pdf)
+4. FUDGE: fuzz driver generation at scale.[ESEC/FSE 2019](https://dl.acm.org/doi/pdf/10.1145/3338906.3340456)
+5. FuzzBuilder: automated building greybox fuzzing environment for C/C++ library.[ACSAC 2019](https://dl.acm.org/doi/pdf/10.1145/3359789.3359846)
+6. FuzzGen: Automatic Fuzzer Generation.[Usenix 2020](https://www.usenix.org/system/files/sec20fall_ispoglou_prepub.pdf)
+7. IntelliGen: Automatic Driver Synthesis for Fuzz Testing.[ICSE-SEIP 2021](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/icse_seip_0221.pdf)
+8. RULF: Rust Library Fuzzing via API Dependency Graph Traversal.[ASE 2021](https://arxiv.org/pdf/2104.12064.pdf)
+9. SyRust: automatic testing of Rust libraries with semantic-aware program synthesis.[PLDI 2021](https://sat-group.github.io/ruben/media/pldi21-syrust.pdf)
+10. WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning.[NDSS 2021](https://taesoo.kim/pubs/2021/jung:winnie.pdf)
 
 ## Open-source Tools
 
